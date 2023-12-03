@@ -6,6 +6,12 @@
     align-items: center;
 }
 
+.col-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .referencia {
     background-color: aqua;
     border: none;
@@ -13,4 +19,10 @@
 
 .marcacao {
     background-color: rgb(210, 255, 255);
+}
+
+p {
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
