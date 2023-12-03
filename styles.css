@@ -1,0 +1,16 @@
+.col-2 {
+    display: flex;
+    border: 1px solid;
+    border-color: rgb(180, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+
+.referencia {
+    background-color: aqua;
+    border: none;
+}
+
+.marcacao {
+    background-color: rgb(210, 255, 255);
+}
